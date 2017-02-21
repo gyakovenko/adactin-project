@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21553" started-at="2017-02-02T06:08:48Z" finished-at="2017-02-02T06:09:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21553" started-at="2017-02-02T06:08:48Z" finished-at="2017-02-02T06:09:10Z">
+      <class name="com.sqa.gy.TC101withJF">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.sqa.gy.TC101withJF@53443752]" name="setup" is-config="true" duration-ms="8481" started-at="2017-02-01T22:08:48Z" finished-at="2017-02-01T22:08:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testHotelSearch()[pri:0, instance:com.sqa.gy.TC101withJF@53443752]" name="testHotelSearch" duration-ms="1903" started-at="2017-02-01T22:08:57Z" finished-at="2017-02-01T22:08:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHotelSearch -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sqa.gy.TC101withJF@53443752]" name="tearDown" is-config="true" duration-ms="100" started-at="2017-02-01T22:08:58Z" finished-at="2017-02-01T22:08:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.sqa.gy.TC101withJF@53443752]" name="setup" is-config="true" duration-ms="3857" started-at="2017-02-01T22:08:59Z" finished-at="2017-02-01T22:09:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:com.sqa.gy.TC101withJF@53443752]" name="testLogin" duration-ms="7100" started-at="2017-02-01T22:09:02Z" finished-at="2017-02-01T22:09:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sqa.gy.TC101withJF@53443752]" name="tearDown" is-config="true" duration-ms="85" started-at="2017-02-01T22:09:10Z" finished-at="2017-02-01T22:09:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sqa.gy.TC101withJF -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
